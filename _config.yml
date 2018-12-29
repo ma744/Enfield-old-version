@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Marcels Site
-tagline:          Projekte rund um Scripting, Linux, Python und mehr
-description:      "Dokumentation über meine Projekte"
+title:            Marcel Artz' Website
+tagline:          Projects about Scripting, IT-Security, Python, Dark Themes and more!
+description:      "Documentation about my personal projects"
 url:              https://marcel-artz.de
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
