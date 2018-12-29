@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<!-- post layout-->
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date:"%d %b %Y" }}</span>
+  <!--{{ page.published_at | date: "%a, %b %d, %y" }}-->
+  {{ content }}
+</div>
+
+<!-- post order -->
+<div class="related">
+  <h2>Ähnliche Artikel</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url | remove_first: '/'}}">
+            {{ post.title }}
+            <small>{{ page.date | date:"%d %b %Y" }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
