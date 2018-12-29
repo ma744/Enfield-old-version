@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Kontakt
-redirect_from: "/kontakt"
+title: Contact
 ---
 
-<p class="lead">Du erreichtst mit per Mail an <span class="bot">ed.ztra-lecram [tä] liam</span></p>
+<p class="lead">Mail me at <span class="bot">moc.elpmaxe@liam</span></p>
 
-Verschlüssele mit meinem PGP Schlüssel [example-key-server.org]
+Use my GPG-Key to encrypt the mail. Let's make the Internet a safer Net!

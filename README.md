@@ -29,7 +29,9 @@ I was in need of a jekyll theme for my [website](https://ma744.github.io). In or
 
 In addition to the features of [Poole](http://getpoole.com), [Hyde](http://hyde.getpoole.com), and [BlackDoc](https://github.com/karloespiritu/BlackDoc), Lanyon theme adds the following:
 
-**Coming soon**
+* Redirect links
+* A simple protection against bots for your e-mail
+
 
 Check out the `Readme` of [Poole](https://github.com/poole/poole), [Hyde](https://github.com/poole/hyde) and [BlackDoc](https://github.com/karloespiritu/BlackDoc) theme to learn more about the features.
 
