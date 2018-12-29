@@ -1,7 +1,5 @@
----
-layout: post
-title: Introducing Lanyon
----
+
+### Lanyon
 
 Lanyon is a dark theme for websites with simplicity in mind. It's designed for blogging and documentation. Furthermore it has a download section, a contact site and an (empty) Impress. BlackSite is based on [BlackDoc](https://github.com/karloespiritu/BlackDoc).
 
