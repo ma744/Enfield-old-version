@@ -23,17 +23,17 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Ältere Posts</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Previous</a>
   {% else %}
-    <span class="pagination-item older">Ältere Posts</span>
+    <span class="pagination-item older">Previous</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Neuere Posts</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}">New</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Neuere Posts</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">New</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Neuere Posts</span>
+    <span class="pagination-item newer">New</span>
   {% endif %}
 </div>
