@@ -31,7 +31,10 @@ In addition to the features of [Poole](http://getpoole.com), [Hyde](http://hyde.
 
 * Redirect links
 * A simple protection against bots for your e-mail
-
+* Placed some fonts offline at /public/css/fonts; there is no need to call googleapis.com
+* Adds new page layouts
+* Customized sidebar for 'extra pages' like impress
+* more meta tags in the head.html file
 
 Check out the `Readme` of [Poole](https://github.com/poole/poole), [Hyde](https://github.com/poole/hyde) and [BlackDoc](https://github.com/karloespiritu/BlackDoc) theme to learn more about the features.
 
