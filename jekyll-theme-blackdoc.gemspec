@@ -1,7 +1,7 @@
 # coding: utf-8
 # Specification for the Gem
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-lanyon"
+  spec.name          = "jekyll-theme-enfield"
   spec.version       = "0.0.1"
   spec.authors       = ["Marcel Artz"]
   spec.email         = ["mail@marcel-artz.de"]
