@@ -1,6 +1,3 @@
-**Important note:**
-
-If you want to start a blog or documentation, remove '_site' from the '.gitignore' file!
 
 ### Lanyon
 
