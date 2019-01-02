@@ -5,8 +5,8 @@ title: Downloads
 
 * * *
 
-## Lanyon Jekyll Theme
+## Enfield Jekyll Theme
 
-Downloade [directly](https://github.com/ma744/Lanyon/archive/master.zip)
+Downloade [directly](https://github.com/ma744/Enfield/archive/master.zip)
 
-or have a look at the [source code](https://github.com/ma744/Lanyon) 
+or have a look at the [source code](https://github.com/ma744/Enfield) 
