@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Introducing Enfield
 ---
 
-Lanyon is a dark theme for websites with simplicity in mind. It's designed for blogging and documentation. Furthermore it has a download section, a contact site and an (empty) Impress. BlackSite is based on [BlackDoc](https://github.com/karloespiritu/BlackDoc).
+Enfield is a dark theme for websites with simplicity in mind. It's designed for blogging and documentation. Furthermore it has a download section, a contact site and an (empty) Impress. Enfield is based on [BlackDoc](https://github.com/karloespiritu/BlackDoc).
 
 I was in need of a jekyll theme for my [website](https://ma744.github.io). In order to get one that fits to my purposes I forked [BlackDoc](https://github.com/karloespiritu/BlackDoc).
 
@@ -25,9 +25,9 @@ I was in need of a jekyll theme for my [website](https://ma744.github.io). In or
  * Related posts (time-based, because Jekyll) below each post
  * Syntax highlighting using Pygments (the Python-based code snippet highlighter)
 
-### Lanyon Features
+### Enfield Features
 
-In addition to the features of [Poole](http://getpoole.com), [Hyde](http://hyde.getpoole.com), and [BlackDoc](https://github.com/karloespiritu/BlackDoc), Lanyon theme adds the following:
+In addition to the features of [Poole](http://getpoole.com), [Hyde](http://hyde.getpoole.com), and [BlackDoc](https://github.com/karloespiritu/BlackDoc), Enfield theme adds the following:
 
 * Redirect links
 * A simple protection against bots for your e-mail
@@ -40,17 +40,17 @@ Check out the `Readme` of [Poole](https://github.com/poole/poole), [Hyde](https:
 
 ### Download
 
-Lanyon is a free Jekyll theme and hosted with GitHub. Head to the <a href="https://github.com/ma744/Lanyon">GitHub repository</a> to download.
+Enfield is a free Jekyll theme and hosted with GitHub. Head to the <a href="https://github.com/ma744/Enfield">GitHub repository</a> to download.
 
 
 ### Fun fact
 
-Lanyon, Hyde, Poole and Jekyll are characters of Robert L. Stevenson's story "The strange case of Dr. Jekyll and Mr. Hyde".
+Enfield, Hyde, Poole and Jekyll are characters of Robert L. Stevenson's story "The strange case of Dr. Jekyll and Mr. Hyde".
 
 
 ### License (MIT-License)
 
-I would appreciate leaving a 'credit link' at your website when using the Lanyon Theme.
+I would appreciate leaving a 'credit link' at your website when using the Enfield Theme.
 
 Copyright (c) <2018> <Marcel Artz> <marcel-artz.de>
 
